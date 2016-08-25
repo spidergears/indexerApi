@@ -25,8 +25,6 @@ Cache-Control: no-cache
 Postman-Token: bba0721b-4583-af0f-8d10-341d5474b6d9
 ```
 * I have used Postman chrome extension to simulate and test API requets, though any rest client that can send json requests should work.
-* The code is deployed on AWS and the server can respond to the API requests with the formats as described above
-* Server IP: 52.66.121.215
 
 ### How do i set this up locally? ###
 * Simply clone the repo in your local machine
